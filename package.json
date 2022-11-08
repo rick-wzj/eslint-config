@@ -18,7 +18,8 @@
     "eslint",
     "react",
     "typescript",
-    "prettier"
+    "prettier",
+    "config"
   ],
   "license": "MIT",
   "bugs": {
