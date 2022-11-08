@@ -1,6 +1,6 @@
 {
   "name": "@saremid/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eslint shared config for react with typescript",
   "main": "index.js",
   "scripts": {
