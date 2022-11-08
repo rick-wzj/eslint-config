@@ -44,14 +44,6 @@ module.exports = {
           'internal',
           ['parent', 'sibling', 'index'],
         ],
-        pathGroups: [
-          {
-            pattern: 'react',
-            group: 'builtin',
-            position: 'before',
-          },
-        ],
-        pathGroupsExcludedImportTypes: [],
       },
     ],
     'sort-imports': [
