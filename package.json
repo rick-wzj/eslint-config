@@ -4,8 +4,7 @@
   "description": "Eslint shared config for react with typescript",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install",
-    "precommit": "lint-staged"
+    "prepare": "husky install"
   },
   "files": [
     "index.js"
